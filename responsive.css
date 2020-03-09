@@ -1,58 +1,21 @@
 /* tablet */
 @media all and (max-width: 1000px) {
-  .top-wrapper h1{
-    font-size:32px
-  }
 
 
- .heading h2{
-   font-size:20px;
- }
 
- .lesson{
+ .sns{
    width:50%;
    padding-bottom:50px;
  }
-
-footer{
-  text-align:center;
-}
 
 
 }
 
 /* mobile*/
 @media all and (max-width: 670px) {
-  .menu-icon{
-    display:block;
-  }
 
-  .top-wrapper{
-    text-align:left;
-  }
-
-  .top-wrapper h1{
-    font-size:24px;
-  }
-
-  .top-wrapper p{
-    font-size:14px;
-  }
-
-
-  .btn{
+  .sns{
     width:100%;
   }
-
-
-  .lesson{
-    width:100%;
-  }
-
-
-  .facebook{
-    margin-bottom:10px;
-  }
-
 
 }
